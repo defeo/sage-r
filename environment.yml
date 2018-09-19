@@ -1,0 +1,9 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7
+  - sage
+  - r-base
+  - pip:
+    - matplotlib
