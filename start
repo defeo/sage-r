@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source /srv/conda/bin/activate kernel
+exec "$@"

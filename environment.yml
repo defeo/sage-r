@@ -1,8 +1,7 @@
-name: example-environment
+name: sage-r-environment
 channels:
   - conda-forge
 dependencies:
   - python=2.7
   - sage
-  - r-base
-  - r-irkernel
+  - r-essentials
