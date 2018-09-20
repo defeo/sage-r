@@ -1,3 +1,0 @@
-echo '
-# Add home to path (so that the `start` entrypoint is found)
-PATH="$PATH:$HOME"' >> $HOME/.profile
